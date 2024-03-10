@@ -3,6 +3,9 @@
 
 ![image](https://github.com/popopy0412/SeGaGe/blob/main/%EC%84%B8%EA%B0%80%EA%B2%8C_Main.png)
 ---
-
+## About Game
+- 개발 언어(프레임워크) : C#(Unity)
+- 게임 해상도 : 1024 * 768
+  
 ## How to play
 ![image](https://github.com/popopy0412/SeGaGe/blob/main/%EC%84%B8%EA%B0%80%EA%B2%8C_How_to_play.png)
